@@ -51,7 +51,7 @@ clear_screen:
 ;   offset that is how 13 stripes can fit without it looking weird, inorder for this flag to look
 ;   somewhat normal it is nessessary to expand the amount of stripes the flag has.
 ; !ALSO! Make note that this is not the most effecient and even sligtly complicated way of printing the
-;   American Flag, but this is used so that one can be ucustomed to the Print meathod.
+;   American Flag.
 
     ; Print stripes of american flag
     
